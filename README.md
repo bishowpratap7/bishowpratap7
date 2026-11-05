@@ -6,6 +6,13 @@ I'm a senior software engineer and platform engineer with 8+ years building and 
 
 I also run a small network of self-updating websites — **the Desk Network** — covering developer news, world news, stocks, security vulnerabilities, famous outages, deals, food and style. Every desk updates itself around the clock and links to its sources.
 
+## 🤖 Now: AI / ML
+
+I'm learning AI/ML **in public** — going from platform engineering toward AI engineering, one working experiment at a time.
+
+- **[AI Engineer Journey](https://github.com/bishowpratap7/ai-engineer-journey)** — the full log: weekly experiments, builds (StackTrace AI, vLLM on Kubernetes) and honest numbers
+- First experiment underway: *What AI can actually run in 4 GB of RAM?* — local LLM benchmarks on small hardware
+
 ## 🗂️ The Desk Network — live sites
 
 | Desk | What it does |
@@ -30,7 +37,7 @@ I also run a small network of self-updating websites — **the Desk Network** �
 
 ## 🔧 What I work with
 
-Kubernetes · AWS EKS · Java 21 · Spring Boot 3 · Terraform · Docker · GitHub Actions · PostgreSQL · Application Security (SAST/DAST, Fortify, SonarQube) · HIPAA platforms
+Kubernetes · AWS EKS · Java 21 · Spring Boot 3 · Terraform · Docker · GitHub Actions · PostgreSQL · Application Security (SAST/DAST, Fortify, SonarQube) · HIPAA platforms · **Learning now:** Python · LLM applications · RAG · model serving (vLLM)
 
 ---
 *Every desk in the network is open source here on GitHub and runs itself on GitHub Actions — browse the repos below.*
